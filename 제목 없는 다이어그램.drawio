@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T13:31:41.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Mmp_pIDqVdlfICxUXYYX" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T13:39:34.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0ILzIHh6tuk6XuNWDP4X" version="21.6.1" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
-    <mxGraphModel dx="2084" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,166 @@
         </mxCell>
         <mxCell id="9wW0anUBlSHxmnLjOX-P-61" value="아이템 삭제&lt;br&gt;버튼 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
           <mxGeometry x="640" y="814" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-62" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;igroup값, iplan값 &lt;br&gt;insert&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1380" width="216" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-62" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="1460" as="sourcePoint" />
+            <mxPoint x="364" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="1420" as="sourcePoint" />
+            <mxPoint x="630" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-67" value="아이템 리스트" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-76" value="아이템 추가&lt;br&gt;버튼 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1384" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-77" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.503;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-76" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="1380" as="sourcePoint" />
+            <mxPoint x="780" y="1340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-78" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-79" value="종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-80" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.499;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-76" target="9wW0anUBlSHxmnLjOX-P-82" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="1456" as="sourcePoint" />
+            <mxPoint x="750" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-81" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-82" value="카테고리,제품명, &lt;br&gt;수량, 단위&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-83" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-82" target="9wW0anUBlSHxmnLjOX-P-84" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="1550" as="sourcePoint" />
+            <mxPoint x="1140" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-84" value="아이템 추가" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-85" value="아이템 삭제" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-86" value="iproduct값" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-87" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-86" target="9wW0anUBlSHxmnLjOX-P-85" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1670" y="1900" as="sourcePoint" />
+            <mxPoint x="1690" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-88" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.499;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-94" target="9wW0anUBlSHxmnLjOX-P-86" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1806" as="sourcePoint" />
+            <mxPoint x="1300" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-89" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-90" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.503;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-94" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1730" as="sourcePoint" />
+            <mxPoint x="1330" y="1690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-91" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-92" value="종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-93" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="1500" as="sourcePoint" />
+            <mxPoint x="1180" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="1770" />
+              <mxPoint x="1140" y="1770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-94" value="아이템 삭제&lt;br&gt;버튼 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1734" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-95" value="아이템 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1464" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-96" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.503;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-95" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1460" as="sourcePoint" />
+            <mxPoint x="1280" y="1420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-97" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-98" value="종료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-99" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.499;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-95" target="9wW0anUBlSHxmnLjOX-P-101" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="1536" as="sourcePoint" />
+            <mxPoint x="1250" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1190" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-100" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-101" value="iproduct값, &lt;br&gt;카테고리,제품명, &lt;br&gt;수량, 단위&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="9wW0anUBlSHxmnLjOX-P-101" target="9wW0anUBlSHxmnLjOX-P-103" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="1630" as="sourcePoint" />
+            <mxPoint x="1640" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-103" value="아이템수정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9wW0anUBlSHxmnLjOX-P-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.501;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9wW0anUBlSHxmnLjOX-P-84" target="9wW0anUBlSHxmnLjOX-P-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="1490" as="sourcePoint" />
+            <mxPoint x="1220" y="1440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
