@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T01:28:16.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wDfhpjZTE3b07V51FraY" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T01:30:42.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uM7NQhG1-uUCQ2X6FlD0" version="21.6.1" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
     <mxGraphModel dx="2074" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -552,8 +552,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_mOpf1orK06N7zwf1A7-42" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;igroup값, iplan값 &lt;br&gt;insert&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="1710" width="216" height="80" as="geometry" />
+        <mxCell id="u_mOpf1orK06N7zwf1A7-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;igroup값, iplan값 &lt;br&gt;insert&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1936" y="1720" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u_mOpf1orK06N7zwf1A7-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" source="u_mOpf1orK06N7zwf1A7-42" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
