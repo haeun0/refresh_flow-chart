@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T07:05:13.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sR4U18bUdGzPTIZ2tPJP" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T07:06:05.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3kw6_WaXIZasZ0Pt_585" version="21.6.1" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
     <mxGraphModel dx="2074" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xvmcTfv81nN8OtCjsGIb-42" value="아이템 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="xvmcTfv81nN8OtCjsGIb-42" value="아이템 구매&lt;br&gt;버튼 클릭" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="2406" y="2586" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="xvmcTfv81nN8OtCjsGIb-43" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#788AA3;entryX=0.998;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="xvmcTfv81nN8OtCjsGIb-42" parent="1" target="xvmcTfv81nN8OtCjsGIb-33">
@@ -766,7 +766,7 @@
         <mxCell id="xvmcTfv81nN8OtCjsGIb-44" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="2405" y="2547" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvmcTfv81nN8OtCjsGIb-45" value="아이템 수정" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="xvmcTfv81nN8OtCjsGIb-45" value="아이템 구매 완료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="2735" y="2592" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvmcTfv81nN8OtCjsGIb-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;exitX=1;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#788AA3;" edge="1" source="xvmcTfv81nN8OtCjsGIb-42" target="xvmcTfv81nN8OtCjsGIb-48" parent="1">
@@ -783,7 +783,7 @@
         <mxCell id="xvmcTfv81nN8OtCjsGIb-47" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="2524" y="2598" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xvmcTfv81nN8OtCjsGIb-48" value="iproduct값, &lt;br&gt;카테고리,제품명, &lt;br&gt;수량, 단위&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="xvmcTfv81nN8OtCjsGIb-48" value="iproduct값" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="2580" y="2592" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvmcTfv81nN8OtCjsGIb-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#788AA3;" edge="1" source="xvmcTfv81nN8OtCjsGIb-48" parent="1">
