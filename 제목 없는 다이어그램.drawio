@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T06:20:20.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uPzm_HLT23la1YGghP7O" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T06:21:33.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WhyDvvK_C3GWzm1cUay6" version="21.6.3" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
     <mxGraphModel dx="2487" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1300,27 +1300,6 @@
         <mxCell id="11qmACSML-qurTTF8w8q-51" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
           <mxGeometry x="2050" y="3986" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-53" target="11qmACSML-qurTTF8w8q-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-53" value="&lt;font color=&quot;#ffffff&quot;&gt;리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="2094" y="4095" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-54" value="&lt;font color=&quot;#ffffff&quot;&gt;전체&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#808080;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2249" y="4085" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FFFFFF;strokeColor=#2D2D2D;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-50" target="11qmACSML-qurTTF8w8q-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2296" y="3975" as="sourcePoint" />
-            <mxPoint x="2346" y="3925" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2005" y="4127" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-56" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="4101" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-57" value="&lt;font color=&quot;#ffffff&quot;&gt;추천 아이템 리스트&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#808080;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1649" y="4176" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1348,16 +1327,6 @@
             <mxPoint x="2476" y="4066" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2410" y="4010" />
-              <mxPoint x="2410" y="4066" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.99;exitY=0.355;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2381" y="4150" as="sourcePoint" />
-            <mxPoint x="2410" y="4066" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2410" y="4113" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1365,13 +1334,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-65" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#808080;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="2446" y="4030" width="120" height="72" as="geometry" />
+          <mxGeometry x="2416" y="3974" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-66" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템&lt;br&gt;상세페이지&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#808080;strokeColor=none;fontColor=#46495D;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2616" y="4026" width="120" height="80" as="geometry" />
+          <mxGeometry x="2586" y="3970" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-67" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
-          <mxGeometry x="2557" y="4043" width="60" height="30" as="geometry" />
+          <mxGeometry x="2527" y="3987" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-59" target="11qmACSML-qurTTF8w8q-69">
           <mxGeometry relative="1" as="geometry">
