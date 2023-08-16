@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T05:52:05.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Nr7NpbgzA0n_vddCPtlf" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T05:55:49.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dV3_xg3LvW0drhEiK1WL" version="21.6.3" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
-    <mxGraphModel dx="2234" dy="1152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="1285" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1203,6 +1203,27 @@
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-20" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
           <mxGeometry x="1945" y="3775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11qmACSML-qurTTF8w8q-21" value="&lt;font color=&quot;#ffffff&quot;&gt;추천 아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#808080;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="3866" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11qmACSML-qurTTF8w8q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-22" target="11qmACSML-qurTTF8w8q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11qmACSML-qurTTF8w8q-22" value="메인페이지" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="3654" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="11qmACSML-qurTTF8w8q-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FFFFFF;strokeColor=#2D2D2D;entryX=-0.019;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="11qmACSML-qurTTF8w8q-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1704" y="3714" as="sourcePoint" />
+            <mxPoint x="1833" y="3795" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1704" y="3895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11qmACSML-qurTTF8w8q-25" value="당일 월" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="3869" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
