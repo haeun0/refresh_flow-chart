@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T05:51:50.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4yx598T02_NCPhcrobFx" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T05:52:05.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Nr7NpbgzA0n_vddCPtlf" version="21.6.3" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
     <mxGraphModel dx="2234" dy="1152" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1166,7 +1166,7 @@
         <mxCell id="11qmACSML-qurTTF8w8q-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;" edge="1" parent="1" source="11qmACSML-qurTTF8w8q-2" target="11qmACSML-qurTTF8w8q-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-2" value="&lt;font color=&quot;#ffffff&quot;&gt;검색어,카테고리&lt;br&gt;리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
+        <mxCell id="11qmACSML-qurTTF8w8q-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp; 검색어,카테고리&lt;br&gt;&amp;nbsp; 리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="2004" y="3654" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-3" value="&lt;font color=&quot;#ffffff&quot;&gt;검색 된&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#808080;strokeColor=none;" vertex="1" parent="1">
