@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T07:37:49.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="StpxE1FpycwmS97N6jDD" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T07:38:01.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nAUbMO74wZTWN7hh8nUt" version="21.6.8" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
     <mxGraphModel dx="1824" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1602,7 +1602,7 @@
             <mxPoint x="2618.5" y="4388" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="icj1JgVAE3LNSdZCdBqc-109" value="카테고리 PK,&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;상품명, 메인사진,&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;가겨, 상세이미지&lt;/span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
+        <mxCell id="icj1JgVAE3LNSdZCdBqc-109" value="&lt;font color=&quot;#ffffff&quot;&gt;카테고리 PK,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;상품명, 메인사진,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;가겨, 상세이미지&lt;br&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
           <mxGeometry x="2480" y="4358" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-110" value="아이템&lt;br&gt;수정 완료" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
