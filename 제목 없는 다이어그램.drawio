@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T05:38:40.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zT20cqLDkumvDlYI9IlH" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T05:40:47.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gYmb9Xtp5IhBnbkk9BYN" version="21.6.8" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
-    <mxGraphModel dx="3407" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2309" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1294,7 +1294,7 @@
             <mxPoint x="2035" y="4280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-50" value="&lt;font color=&quot;#ffffff&quot;&gt;검색어 입력,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;카테고리 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="11qmACSML-qurTTF8w8q-50" value="&lt;font color=&quot;#ffffff&quot;&gt;카테고리&lt;br&gt;관리 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1945" y="4244" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-51" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" parent="1" vertex="1">
@@ -1348,7 +1348,7 @@
             <mxPoint x="1796" y="4279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-69" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템&lt;br&gt;관리탭 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="11qmACSML-qurTTF8w8q-69" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템&lt;br&gt;관리 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1650" y="4243" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="11qmACSML-qurTTF8w8q-70" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" parent="1" vertex="1">
@@ -1372,7 +1372,7 @@
             <mxPoint x="1945" y="4279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11qmACSML-qurTTF8w8q-75" value="&lt;font color=&quot;#ffffff&quot;&gt;전체&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="11qmACSML-qurTTF8w8q-75" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;아이템 관리 &lt;br&gt;리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1803" y="4240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-19" value="&lt;font color=&quot;#ffffff&quot;&gt;리뷰 작성 버튼&lt;br&gt;클릭&lt;br&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
