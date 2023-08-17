@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T11:38:58.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="W0VFi3-R8Hb5NWLCycvR" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T11:39:53.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CQxsm2kIQF1zPsfmDojI" version="21.6.8" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
-    <mxGraphModel dx="2593" dy="1340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1858,7 +1858,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-190" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp; 검색어,카테고리&lt;br&gt;&amp;nbsp; 리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
-          <mxGeometry x="4061" y="3765" width="120" height="60" as="geometry" />
+          <mxGeometry x="4061" y="3775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-209" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.523;exitY=0.803;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="icj1JgVAE3LNSdZCdBqc-191" target="icj1JgVAE3LNSdZCdBqc-204">
           <mxGeometry relative="1" as="geometry">
@@ -1866,11 +1866,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-191" value="&lt;font color=&quot;#ffffff&quot;&gt;검색 된&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4061" y="3860" width="120" height="80" as="geometry" />
+          <mxGeometry x="4061" y="3870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;entryX=0.485;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="icj1JgVAE3LNSdZCdBqc-190">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4070" y="3654" as="sourcePoint" />
+            <mxPoint x="4040" y="3690" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="4040" y="3654" />
               <mxPoint x="4040" y="3733" />
@@ -1880,24 +1880,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-193" value="&lt;font color=&quot;#ffffff&quot;&gt;검색어 입력,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;카테고리 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="3980" y="3618" width="120" height="72" as="geometry" />
+          <mxGeometry x="3980" y="3638" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-194" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="3728" width="60" height="30" as="geometry" />
+          <mxGeometry x="3960" y="3732" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;" edge="1" parent="1" source="icj1JgVAE3LNSdZCdBqc-196" target="icj1JgVAE3LNSdZCdBqc-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-196" value="&lt;font color=&quot;#ffffff&quot;&gt;리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="3765" width="120" height="60" as="geometry" />
+          <mxGeometry x="3900" y="3775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.486;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="icj1JgVAE3LNSdZCdBqc-197" target="icj1JgVAE3LNSdZCdBqc-204">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4010" y="3990" as="targetPoint" />
+            <mxPoint x="4010" y="4000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-197" value="&lt;font color=&quot;#ffffff&quot;&gt;전체&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="3860" width="120" height="80" as="geometry" />
+          <mxGeometry x="3900" y="3870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-198" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FFFFFF;strokeColor=#2D2D2D;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="icj1JgVAE3LNSdZCdBqc-193" target="icj1JgVAE3LNSdZCdBqc-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1910,7 +1910,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-199" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
-          <mxGeometry x="4063" y="3728" width="60" height="30" as="geometry" />
+          <mxGeometry x="4063" y="3733" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="icj1JgVAE3LNSdZCdBqc-207" target="icj1JgVAE3LNSdZCdBqc-193">
           <mxGeometry relative="1" as="geometry" />
@@ -1919,16 +1919,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-204" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템 선택&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="3980" y="3997" width="120" height="72" as="geometry" />
+          <mxGeometry x="3980" y="4007" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-205" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템&lt;br&gt;상세페이지&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;labelBackgroundColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3980" y="4128.92" width="120" height="80" as="geometry" />
+          <mxGeometry x="3980" y="4108.92" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-206" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
           <mxGeometry x="4588" y="3687" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="icj1JgVAE3LNSdZCdBqc-207" value="&lt;font color=&quot;#ffffff&quot;&gt;검색&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="3980" y="3500" width="120" height="72" as="geometry" />
+          <mxGeometry x="3980" y="3540" width="120" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
