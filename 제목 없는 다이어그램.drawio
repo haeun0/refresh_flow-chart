@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T08:59:39.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZcfTKp-v8Nkzn29DOE2h" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T10:14:29.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4X9ItFkUi2xQ6Db-Id4Y" version="21.7.4" type="github">
   <diagram name="페이지-1" id="CzQE8o6cjuPT0NPIpDWt">
-    <mxGraphModel dx="3006" dy="1557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="919" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2528,6 +2528,66 @@
             <mxPoint x="2279" y="5649.98" as="sourcePoint" />
             <mxPoint x="2315" y="5725.98" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-191" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp; 검색어,카테고리&lt;br&gt;&amp;nbsp; 리스트 페이지, &lt;br&gt;기간,정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
+          <mxGeometry x="3208" y="6070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-192" value="&lt;font color=&quot;#ffffff&quot;&gt;검색 된&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3208" y="6165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;entryX=0.485;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Tyb2pzBQgetdwD9ruyM_-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3187" y="5985" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3187" y="5949" />
+              <mxPoint x="3187" y="6028" />
+              <mxPoint x="3267" y="6028" />
+              <mxPoint x="3267" y="6060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-194" value="&lt;font color=&quot;#ffffff&quot;&gt;검색어 입력,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;카테고리 선택,&lt;br&gt;등록기간으로 선택,&lt;br&gt;정렬 선택&lt;br&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="3095.33" y="5904" width="183.33" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-195" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
+          <mxGeometry x="3107" y="6027" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;" edge="1" parent="1" source="Tyb2pzBQgetdwD9ruyM_-197" target="Tyb2pzBQgetdwD9ruyM_-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-197" value="&lt;font color=&quot;#ffffff&quot;&gt;리스트 페이지, &lt;br&gt;정렬&amp;nbsp;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rounded=0;strokeColor=none;fillColor=#d2b48c;" vertex="1" parent="1">
+          <mxGeometry x="3047" y="6070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-198" value="&lt;font color=&quot;#ffffff&quot;&gt;전체&lt;br&gt;아이템 리스트&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3047" y="6165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-199" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FFFFFF;strokeColor=#2D2D2D;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tyb2pzBQgetdwD9ruyM_-194" target="Tyb2pzBQgetdwD9ruyM_-197">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3183" y="5984.28" as="sourcePoint" />
+            <mxPoint x="3091" y="6045" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3187" y="6028" />
+              <mxPoint x="3107" y="6028" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-200" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#2D2D2D;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="6028" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#2D2D2D;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3265.76" y="6130" as="sourcePoint" />
+            <mxPoint x="3265.76" y="6165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-205" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.515;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.507;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="Tyb2pzBQgetdwD9ruyM_-203">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3186.9400000000005" y="5886" as="sourcePoint" />
+            <mxPoint x="3186.9783099999995" y="5905.9800000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tyb2pzBQgetdwD9ruyM_-203" value="&lt;font color=&quot;#ffffff&quot;&gt;아이템&amp;nbsp;&lt;br&gt;검색 및 리스트&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;rounded=0;fillColor=#d2b48c;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3125" y="5818" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
